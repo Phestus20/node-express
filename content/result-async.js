@@ -1,1 +1,0 @@
- Here is the result: This is the first txt file,  This is the second txt file
